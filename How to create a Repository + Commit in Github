@@ -1,0 +1,20 @@
+How to create a Repository
+
+Requirements:
+- Gitbash Installed : https://gitforwindows.org/ 
+- Github Account
+
+Step 1: 
+ - Sign Into or Create A Github Account
+ 
+Step 2: 
+ - Click the '+' icon next to your profile picture on the top right side of the page.
+ - Select 'New Repository' 
+ - Give your Repository a name
+ -  Select 'Create Repository'
+ 
+Step 3:
+ - Open Gitbash
+ - Create a new Folder in your directory by typing 'mkdir {insert project name}' mkdir = make directory.
+ - Open the folder by typing ' cd {folder name} make sure you spell is exactly the same, case sensitive. cd = change directory.
+ - 
